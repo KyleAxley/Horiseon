@@ -105,7 +105,7 @@ p {
 }
 
 /* Navigation Button Styling*/
-.search-engine-optimization {
+.style-primary {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -114,11 +114,11 @@ p {
     color: #ffffff;
 }
 /* Navitgation image styling*/
-.search-engine-optimization img {
+.style-primary img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.style-primary h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
